@@ -1,0 +1,19 @@
+* {
+    font-family: Roboto;
+}
+
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7em;
+}
+
+#showImage {
+    width: 30em;
+}
+
+#blogAltercation {
+    display: inline;
+}
